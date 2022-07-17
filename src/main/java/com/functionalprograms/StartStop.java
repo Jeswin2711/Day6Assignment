@@ -14,7 +14,7 @@ public class StartStop
         scanner.next();
         double start = System.currentTimeMillis();
         System.out.println(start);
-        System.out.println("Enter Start to Stop");
+        System.out.println("Enter Stop to Stop");
         scanner.next();
         double end = System.currentTimeMillis();
         System.out.println(end);
